@@ -1,7 +1,7 @@
 "# curso-html-guanabara" 
 
-<p><a href="https://andrewporto.github.io/curso-html-guanabara/exercicios/ex0001/">Executar exercicio 01></a></p>
-<p><a href="https://andrewporto.github.io/curso-html-guanabara/exercicios/ex0002">Executar exercicio 02></a></p>
+<p><a href="https://andrewporto.github.io/curso-html-guanabara/exercicios/ex001/">Executar exercicio 01></a></p>
+<p><a href="https://andrewporto.github.io/curso-html-guanabara/exercicios/ex002">Executar exercicio 02></a></p>
 <p><a href="https://andrewporto.github.io/curso-html-guanabara/exercicios/ex003/">Executar exercicio 03></a></p>
 <p><a href="https://andrewporto.github.io/curso-html-guanabara/exercicios/ex004/">Executar exercicio 04></a></p>
 <p><a href="https://andrewporto.github.io/curso-html-guanabara/exercicios/ex006/">Executar exercicio 06></a></p>
