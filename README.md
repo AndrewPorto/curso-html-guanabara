@@ -1,17 +1,16 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="shortcut icon" href="exercicios/ex004/favicon.ico" type="image/x-icon">
-    <link href="grid/simple-grid.min.css" rel="stylesheet">
+    <meta charset="UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <link rel="shortcut icon" href="exercicios/ex004/favicon.ico" type="image/x-icon"/>
     <title>GitHub</title>
     <style>
         body {
             background-image: linear-gradient(to left, #09BDB8, #09B38B, #008AA6);    
         }
-       div {
+        div {
            float: left;
            margin-left: 100px;  
        }    
