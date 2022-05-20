@@ -16,7 +16,6 @@
            margin-left: 100px;  
        }    
        </style>
-
 </head>
 <body>
     <div class="coluna1">
@@ -54,11 +53,7 @@
             <li><a href="https://andrewporto.github.io/curso-html-guanabara/desafios/desafio08/">Executar desafio 08</a></li>
             <li><a href="https://andrewporto.github.io/curso-html-guanabara/desafios/desafio09/">Executar desafio 09</a></li>
             <li><a href="https://andrewporto.github.io/curso-html-guanabara/desafios/desafio10/android.html">Executar desafio 10</a></li>
-            </ul>
-            </div>
-   
-        
-       
-   
+        </ul>
+            </div>  
 </body>
 </html>
