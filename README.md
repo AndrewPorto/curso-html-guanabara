@@ -52,6 +52,7 @@
             <li><a href="https://andrewporto.github.io/curso-html-guanabara/desafios/desafio09/" target="_blank">Executar desafio 09</a></li>
             <li><a href="https://andrewporto.github.io/curso-html-guanabara/desafios/desafio10/android.html" target="_blank">Executar desafio 10</a></li>
             <li><a href="https://andrewporto.github.io/curso-html-guanabara/desafios/desafio11/" target="_blank">Executar desafio 11</a></li>
+            <li><a href="https://andrewporto.github.io/curso-html-guanabara/desafios/desafio12/" target="_blank">Executar desafio 12</a></li>
         </ul>
             </div>  
 </body>
