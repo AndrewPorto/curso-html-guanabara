@@ -41,7 +41,7 @@
             <li><a href="https://andrewporto.github.io/curso-html-guanabara/exercicios/ex018/fonte01.html">Executar exercicio 018</a></li>
             <li><a href="https://andrewporto.github.io/curso-html-guanabara/exercicios/ex019/seletor01.html">Executar exercicio 019</a></li>
             <li><a href="https://andrewporto.github.io/curso-html-guanabara/exercicios/ex020/links.html">Executar exercicio 020</a></li>
-            <li><a href="https://andrewporto.github.io/curso-html-guanabara/exercicios/ex021/caixa02.html">Executar exercicio 021</a>
+            <li><a href="https://andrewporto.github.io/curso-html-guanabara/exercicios/ex021/caixa02.html">Executar exercicio 021</a></li>
         </ul>
     </div>
     <div class="coluna2">
