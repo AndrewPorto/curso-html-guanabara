@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(88, 99, 243);
+    padding-top: 5px;
+    margin: auto;
+    padding: 10px;
+}
+h1 {
+    text-decoration: underline;
+}
+section {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(149, 155, 241);
+    border-radius: 10px;
+    box-shadow: 2px 2px 6px black;
+    padding: 5px;
+    width: 400px;
+    margin: auto;
+    align-items: center; 
+}

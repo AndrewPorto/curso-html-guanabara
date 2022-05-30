@@ -1,0 +1,18 @@
+h1, h2 {
+    text-align: center;
+}
+
+body {
+    background-image: linear-gradient(to right,#13BFEB,#06D4C6,#07F6A2);
+}
+
+.principal {
+    text-align: center;
+    width: 450px;
+    padding: 20px;
+    margin: auto;
+}
+
+.videos {
+    text-align: center;
+}
